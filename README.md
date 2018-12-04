@@ -8,4 +8,5 @@ Interesting for me:<br>
 -Layout Automation<br>
 -Work with pre- and post-processors<br>
 -Page rendering<br>
+-Animations<br>
 -Working with frameworks(bootstrap,jquery,React,Vue)
