@@ -1,5 +1,7 @@
 # kottans-frontend
 Frontend course kottans
+## JS Basics
+nothing new))
 ## Responsive Web Design
 I  have some experience create responsive layout, but game Flexbox Froggy very interesting and give me understend all property of flexbox))))  
 ## Intro to HTML and CSS
