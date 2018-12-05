@@ -1,7 +1,7 @@
 # kottans-frontend
 Frontend course kottans
 ## JS Basics
-nothing new))
+nothing new of basic js,but Algorithm Scripting Challenges very interesting and  really difficult to understand
 ## Responsive Web Design
 I  have some experience create responsive layout, but game Flexbox Froggy very interesting and give me understend all property of flexbox))))  
 ## Intro to HTML and CSS
